@@ -6,7 +6,7 @@
 
 	25% {
 		animation-timing-function: ease-in;
-		fill-opacity: 0.4;
+		fill-opacity: 0.3;
 		fill: white;
 	}
 
@@ -23,7 +23,7 @@
 
 	75% {
 		animation-timing-function: ease-in;
-		fill-opacity: 0.4;
+		fill-opacity: 0.3;
 		fill: black;
 	}
 
@@ -36,7 +36,7 @@
 }
 
 .highlighted {
-	animation-duration: 5s;
+	animation-duration: 10s;
 	animation-iteration-count: infinite;
 	animation-name: fade;
 	animation-timing-function: ease-in-out;
